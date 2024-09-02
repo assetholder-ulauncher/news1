@@ -1,5 +1,7 @@
 [
-  "1.0.0": {
+  {
+    "ver": "1.0.0",
+    "branch": "stable",
     "type": "raw",
     "id": "aHR0cHM6Ly9tY3BlLXBsYW5ldC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjIvMDMvTWluZWNyYWZ0LVBFLTEtMC0wLmFwaw=="
   }
