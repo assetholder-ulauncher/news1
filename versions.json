@@ -1,8 +1,32 @@
 [
-  {
-    "ver": "1.0.0",
-    "branch": "stable",
-    "type": "raw",
-    "id": "aHR0cHM6Ly9tY3BlLXBsYW5ldC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjIvMDMvTWluZWNyYWZ0LVBFLTEtMC0wLmFwaw=="
-  }
+    {
+        "type": "dl",
+        "branch": "preview",
+        "ver": "1.21.30.14",
+        "0": "21-08-2024",
+        "1": "minecraft-1-21-30-24"
+    },
+    {
+        "type": "dl",
+        "branch": "stable",
+        "ver": "1.21.1.03",
+        "0": "21-06-2024",
+        "1": "minecraft-1-21-1"
+    },
+    {
+        "type": "db",
+        "branch": "preview",
+        "ver": "1.21.0.22",
+        "0": "dz3sp4bms68925vmpf5pd",
+        "1": "minecraft-1-21-0-22",
+        "2": "p250k7tdnqydg4da3oqcj08vb"
+    },
+    {
+        "type": "db",
+        "branch": "preview",
+        "ver": "1.20.80.22",
+        "0": "y1d2tiqqryzv2omsaxzym",
+        "1": "minecraft-1-20-80-22",
+        "2": "7vj4bx10e9ks2eyy7mli2boda"
+    }
 ]
